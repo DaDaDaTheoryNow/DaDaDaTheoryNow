@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DaDaDaTheoryNow
+- 👀 I’m interested in Dart and Flutter programming!
+- 🌱 I’m currently learning make good and supportive apps.
