@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DaDaDaTheoryNow
 - 👀 I’m interested in developing applications and learning programming!
-- 🌱 I’m currently learning Dart and Flutter programming.
-
 
 
 
