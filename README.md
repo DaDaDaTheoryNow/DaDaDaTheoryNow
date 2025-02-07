@@ -4,9 +4,6 @@
 
 
 ##### 🔥MY STATS!
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaDaDaTheoryNow&theme=react)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaDaDaTheoryNow)](https://github.com/anuraghazra/github-readme-stats)
 
 
